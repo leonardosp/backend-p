@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{034A4470-BD95-41CD-8867-CF81BCAF6818}|src\\Backend-p.Api\\Backend-p.Api.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.api\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034A4470-BD95-41CD-8867-CF81BCAF6818}|src\\Backend-p.Api\\Backend-p.Api.csproj|solutionrelative:src\\backend-p.api\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\object\\pokemonslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\object\\pokemonslist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\object\\pokemondtolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\object\\pokemondtolist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\services\\interfaces\\irequestpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\services\\interfaces\\irequestpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\services\\requestpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\services\\requestpokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\object\\gameindicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\object\\gameindicies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\object\\gameversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\object\\gameversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\object\\abilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\object\\abilities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\object\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\object\\ability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\object\\cries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\object\\cries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\object\\forms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\object\\forms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{484BF4A8-E83A-414C-9968-82F85F191D59}|src\\Backend-p.Infra\\Backend-p.Infra.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.infra\\di\\infradependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{484BF4A8-E83A-414C-9968-82F85F191D59}|src\\Backend-p.Infra\\Backend-p.Infra.csproj|solutionrelative:src\\backend-p.infra\\di\\infradependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.application\\di\\dependencyinjectionapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9CD353-BAA2-4B94-9170-CF332EBBACE4}|src\\Backend-p.Application\\Backend-p.Application.csproj|solutionrelative:src\\backend-p.application\\di\\dependencyinjectionapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034A4470-BD95-41CD-8867-CF81BCAF6818}|src\\Backend-p.Api\\Backend-p.Api.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{034A4470-BD95-41CD-8867-CF81BCAF6818}|src\\Backend-p.Api\\Backend-p.Api.csproj|solutionrelative:src\\backend-p.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{034A4470-BD95-41CD-8867-CF81BCAF6818}|src\\Backend-p.Api\\Backend-p.Api.csproj|c:\\users\\leo\\source\\repos\\backend-p\\backend-p\\src\\backend-p.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{034A4470-BD95-41CD-8867-CF81BCAF6818}|src\\Backend-p.Api\\Backend-p.Api.csproj|solutionrelative:src\\backend-p.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PokemonsList.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\PokemonsList.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Object\\PokemonsList.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\PokemonsList.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Object\\PokemonsList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:06:24.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRequestPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Services\\Interfaces\\IRequestPokemon.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Services\\Interfaces\\IRequestPokemon.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Services\\Interfaces\\IRequestPokemon.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Services\\Interfaces\\IRequestPokemon.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:05:36.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PokemonDtoList.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\PokemonDtoList.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Object\\PokemonDtoList.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\PokemonDtoList.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Object\\PokemonDtoList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T16:03:27.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Cries.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\Cries.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Object\\Cries.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\Cries.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Object\\Cries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:22:38.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Ability.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\Ability.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Object\\Ability.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\Ability.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Object\\Ability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:45:22.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Api\\Controllers\\PokemonController.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Api\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Api\\Controllers\\PokemonController.cs",
+              "RelativeToolTip": "src\\Backend-p.Api\\Controllers\\PokemonController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAA0wCMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:13:36.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Api\\Program.cs",
+              "RelativeToolTip": "src\\Backend-p.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:58:20.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InfraDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Infra\\DI\\InfraDependencyInjection.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Infra\\DI\\InfraDependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Infra\\DI\\InfraDependencyInjection.cs",
+              "RelativeToolTip": "src\\Backend-p.Infra\\DI\\InfraDependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:53:59.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Abilities.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\Abilities.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Object\\Abilities.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\Abilities.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Object\\Abilities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:36:53.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RequestPokemon.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Services\\RequestPokemon.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Services\\RequestPokemon.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Services\\RequestPokemon.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Services\\RequestPokemon.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T13:31:31.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameVersion.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\GameVersion.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Object\\GameVersion.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\GameVersion.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Object\\GameVersion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:24:04.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameIndicies.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\GameIndicies.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Object\\GameIndicies.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\GameIndicies.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Object\\GameIndicies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T15:23:30.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DependencyInjectionApp.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\DI\\DependencyInjectionApp.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\DI\\DependencyInjectionApp.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\DI\\DependencyInjectionApp.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\DI\\DependencyInjectionApp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:11:50.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Forms.cs",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\Forms.cs",
+              "RelativeDocumentMoniker": "src\\Backend-p.Application\\Object\\Forms.cs",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Application\\Object\\Forms.cs",
+              "RelativeToolTip": "src\\Backend-p.Application\\Object\\Forms.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T14:36:02.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\Backend-p.Api\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Leo\\source\\repos\\backend-p\\Backend-P\\src\\Backend-p.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\Backend-p.Api\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-05T14:29:31.109Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
