@@ -1,0 +1,13 @@
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\bin\Debug\net8.0\Backend-p.Infra.deps.json
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\bin\Debug\net8.0\Backend-p.Infra.dll
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\bin\Debug\net8.0\Backend-p.Infra.pdb
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\Backend-p.Infra.csproj.AssemblyReference.cache
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\Backend-p.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\Backend-p.Infra.AssemblyInfoInputs.cache
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\Backend-p.Infra.AssemblyInfo.cs
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\Backend-p.Infra.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\Backend-p.Infra.sourcelink.json
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\Backend-p.Infra.dll
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\refint\Backend-p.Infra.dll
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\Backend-p.Infra.pdb
+C:\Users\Leo\source\repos\backend-p\Backend-P\src\Backend-p.Infra\obj\Debug\net8.0\ref\Backend-p.Infra.dll
